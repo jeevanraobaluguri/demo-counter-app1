@@ -5,7 +5,7 @@ pipeline
 
     Stages
     {
-        stage (git chekout){
+        stage ('git checkout'){
         
             steps
             {
